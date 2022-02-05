@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Programme		NFI		nouveau fichier
+Categorie		NFI		nouveau fichier
+Contrainte_Programme_Categorie		NWL	Categorie (IDCategorie) et Programme (IDCategorie)	Nouvelle liaison entre les fichiers Categorie (IDCategorie) et Programme (IDCategorie)
